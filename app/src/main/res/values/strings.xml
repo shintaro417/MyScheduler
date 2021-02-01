@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyScheduler</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_text">登録</string>
+    <string name="read_text">読込</string>
+    <string name="update_text">更新</string>
+    <string name="delete_text">削除</string>
+</resources>
